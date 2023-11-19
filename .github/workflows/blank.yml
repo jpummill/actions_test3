@@ -36,3 +36,4 @@ jobs:
           ls -latr
           pwd
           uname -a
+          df -h
